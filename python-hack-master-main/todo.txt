@@ -1,0 +1,5 @@
+- webcam stream works but server loses access to input 
+- install on dimitri's PC
+- add alt tab
+- add windows key ?
+- 
